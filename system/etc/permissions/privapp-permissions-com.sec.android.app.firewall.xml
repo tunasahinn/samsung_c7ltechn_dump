@@ -1,0 +1,7 @@
+<permissions>
+    <privapp-permissions package="com.sec.android.app.firewall">
+        <permission name="android.permission.CHANGE_CONFIGURATION"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS "/>
+        <permission name="com.android.voicemail.permission.WRITE_VOICEMAIL"/>
+    </privapp-permissions>
+</permissions>

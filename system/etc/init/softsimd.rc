@@ -1,0 +1,5 @@
+# SOFTSIM SERIVCE: starts softsimd 
+service softsimd /system/bin/softsimd
+    class main
+    user system
+    group system
